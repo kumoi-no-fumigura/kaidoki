@@ -1,6 +1,7 @@
 {
  "work": "海道記",
  "work_id": "kaidoki",
+ "repo": "kumoi-no-fumigura/kaidoki",
  "yomi": "かいどうき",
  "category": "紀行",
  "editions": [
@@ -892,6 +893,5 @@
    ],
    "text": "94112205092-000-494-112海道記·廻国雑記幸田露伴校M45EDV-0095"
   }
- ],
- "repo": "kumoi-no-fumigura/kaidoki"
+ ]
 }
